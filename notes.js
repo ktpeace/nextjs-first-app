@@ -1,0 +1,2 @@
+// With Next.js, if you create a file within the pages folder, it makes that into a route. So, you could create about.js to get a /about page -- the exception in index.js which routes to /. You can make folders to create routes like /blog/my-post-title too. If you put the file name in [], then the name inside the brackets becomes a parameter name.
+// getStaticPaths() function. Next.js looks for this function in order to generate all the static pages for that template -- in our case our colors.
