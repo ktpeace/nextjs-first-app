@@ -18,4 +18,4 @@ I hosted the app with AWS at: https://main.d1e6198wccd6zk.amplifyapp.com/
 ## Screenshot
 
 All this app does is show a page with the selected color on click.
-![screenshot](./screenshot-timer.jpg "project screenshot")
+![screenshot](./screenshot.jpg "project screenshot")
